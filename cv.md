@@ -3,9 +3,12 @@
 ### Junior Frontend Developer
 ---
 ### Contact information:
-__Phone:__ +998978751426; +79150092758
-__E-mail:__ mardonberdiyev10@gmail.com
+__Phone:__ +998978751426 +79150092758 
+
+__E-mail:__ mardonberdiyev10@gmail.com 
+
 __Telegram:__ @onmard
+
 [LinkedIn](
 https://www.linkedin.com/in/mardon-berdiyev-4a605a268)
 
